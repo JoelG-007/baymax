@@ -198,7 +198,7 @@ In a medical emergency, call your local emergency services immediately.
 
 ---
 
-## Authors - Joel Guedes
+## Author - Joel Guedes
 
 **Project Guide:** Prof. Umesh Ahire  
 **Institution:** Nowrosjee Wadia College, Pune — Dept. of Computer Science  
