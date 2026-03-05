@@ -111,9 +111,9 @@ def render_master():
                 failures  = total - successes
 
                 col1, col2, col3 = st.columns(3)
-                col1.metric(f"**Total Attempts**\n\n### {total}")
-                col2.metric(f"**Successful**\n\n###{successes}")
-                col3.metric(f"**Failed**\n\n###{failures}")
+                col1.markdown(f"**Total Attempts**\n\n### {total}")
+                col2.markdown(f"**Successful**\n\n### {successes}")
+                col3.markdown(f"**Failed**\n\n### {failures}")
 
                 st.markdown("---")
 
