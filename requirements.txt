@@ -1,0 +1,14 @@
+streamlit
+sqlalchemy
+bcrypt
+passlib
+groq
+python-dotenv
+spacy
+pdfplumber
+reportlab
+plotly
+pandas
+numpy
+pytesseract
+Pillow
