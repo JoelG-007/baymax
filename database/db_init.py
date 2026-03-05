@@ -36,8 +36,8 @@ def init_db():
     if not existing:
         db.add(User(
             username="joel",
-            email="your@email.com",
-            hashed_password=hash_password("YourPassword123"),
+            email="test1@gmail.com",
+            hashed_password=hash_password("TheM@dArchitect_JoelG007"),
             role="master",
             is_active=True
         ))
